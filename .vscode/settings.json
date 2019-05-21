@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.windows": {
+        "PATH": "C:\\Users\\david\\.platformio\\penv\\Scripts;C:\\Users\\david\\.platformio\\penv;C:\\Python27\\;C:\\Python27\\Scripts;C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files (x86)\\Brackets\\command;C:\\Program Files (x86)\\Yarn\\bin\\;C:\\ProgramData\\chocolatey\\bin;C:\\Program Files\\nodejs\\;C:\\Program Files (x86)\\IDM Computer Solutions\\UltraEdit\\;C:\\Users\\david\\AppData\\Local\\Yarn\\bin;C:\\Users\\david\\AppData\\Roaming\\npm;C:\\Users\\david\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Python27\\;C:\\Python27\\Scripts;C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files (x86)\\Brackets\\command;C:\\Program Files (x86)\\Yarn\\bin\\;C:\\ProgramData\\chocolatey\\bin;C:\\Program Files\\nodejs\\;C:\\Program Files (x86)\\IDM Computer Solutions\\UltraEdit\\;C:\\Users\\david\\AppData\\Local\\Yarn\\bin;C:\\Users\\david\\AppData\\Roaming\\npm;C:\\Users\\david\\AppData\\Local\\Programs\\Microsoft VS Code\\bin",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
